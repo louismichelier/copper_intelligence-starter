@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Copper Intelligence – Starter
 
 ## Project Goal
@@ -31,3 +32,4 @@ Focus is on structure, readability, and data flow.
 
 ## Why Copper?
 Copper is a leading economic indicator ("Dr. Copper"). Its price often correlates with global industrial demand, making it a strategic commodity for analysis.
+=======
