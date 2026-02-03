@@ -1,13 +1,8 @@
 <<<<<<< HEAD
 # Copper Intelligence – Starter
 
-<p align="center">
-  <kbd>
-    <img src="app/demo.gif" width="700" alt="Dashboard Demo">
-  </kbd>
-  <br>
-  <i>Aperçu interactif du dashboard d'intelligence de marché</i>
-</p>
+![demo](https://github.com/user-attachments/assets/6ac91998-9de4-4c24-abfb-c60ecd720cc7)
+
 
 ## Project Goal
 Demonstrate a clean end-to-end data/analytics pipeline for Copper futures (HG=F).
