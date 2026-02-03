@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 # Copper Intelligence – Starter
 
+<p align="center">
+  <img app="demo.gif" width="800" alt="Demo Dr Copper">
+</p>
+
 ## Project Goal
 Demonstrate a clean end-to-end data/analytics pipeline for Copper futures (HG=F).
 Focus is on structure, readability, and data flow.
