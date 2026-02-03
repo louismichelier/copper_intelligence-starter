@@ -2,7 +2,11 @@
 # Copper Intelligence – Starter
 
 <p align="center">
-  <img app="demo.gif" width="800" alt="Demo Dr Copper">
+  <kbd>
+    <img src="app/demo.gif" width="700" alt="Dashboard Demo">
+  </kbd>
+  <br>
+  <i>Aperçu interactif du dashboard d'intelligence de marché</i>
 </p>
 
 ## Project Goal
